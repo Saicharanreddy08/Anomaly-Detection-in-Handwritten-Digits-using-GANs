@@ -65,7 +65,4 @@ Improve GAN stability with WGAN/Autoencoder hybrids.
 
 Deploy as a full web app for real-time digit anomaly detection.
 
-👤 Author
-Murthy Pendyala
-📧 Mail ID: nanipendyala8601@gmail.com
-🌐 LinkedIn: www.linkedin.com/in/murthy-pendyala
+
